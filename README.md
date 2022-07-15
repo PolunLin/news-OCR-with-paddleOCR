@@ -1,0 +1,1 @@
+# news-OCR-with-paddleOCR
